@@ -11,6 +11,7 @@
       <mapping pattern="defaultProperties_template_jenkins" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="mongodb.properties" type="PLAIN_TEXT" />
+      <mapping pattern="local" type="PLAIN_TEXT" />
       <mapping pattern="package-info" type="PLAIN_TEXT" />
       <mapping pattern=".ingnore" type="PLAIN_TEXT" />
       <mapping pattern="DFS_Q1" type="PLAIN_TEXT" />
