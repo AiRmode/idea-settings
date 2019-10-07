@@ -11,6 +11,9 @@
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta alt m" />
   </action>
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta alt m" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift alt a" />
   </action>
