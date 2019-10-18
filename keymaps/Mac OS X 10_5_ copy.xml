@@ -56,6 +56,9 @@
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="ctrl meta alt r" />
   </action>
+  <action id="FindBugs.CurrentFileAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt f" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
