@@ -3,30 +3,30 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="8a8935777e974931e6e6000a1532e90a" type="Image" />
-      <mapping pattern="package-info" type="PLAIN_TEXT" />
-      <mapping pattern="local" type="PLAIN_TEXT" />
       <mapping pattern="BFS_Q2" type="PLAIN_TEXT" />
-      <mapping pattern="mongodb_properties" type="PLAIN_TEXT" />
-      <mapping pattern=".ingnore" type="PLAIN_TEXT" />
       <mapping pattern="defaultProperties" type="PLAIN_TEXT" />
-      <mapping pattern="DFS_Q1" type="PLAIN_TEXT" />
+      <mapping pattern="defaultProperties_template_jenkins" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern=".config.inc.swp" type="PLAIN_TEXT" />
       <mapping pattern="mongodb.properties" type="PLAIN_TEXT" />
-      <mapping pattern="defaultProperties_template_jenkins" type="PLAIN_TEXT" />
+      <mapping pattern="local" type="PLAIN_TEXT" />
+      <mapping pattern="package-info" type="PLAIN_TEXT" />
+      <mapping pattern=".ingnore" type="PLAIN_TEXT" />
+      <mapping pattern="DFS_Q1" type="PLAIN_TEXT" />
+      <mapping pattern="mongodb_properties" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="license" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="DLS_pull_requests_grid_parallel_builds" type="Python" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping pattern="DLS_pull_requests_grid_parallel_builds" type="Python" />
     </extensionMap>
   </component>
 </application>
